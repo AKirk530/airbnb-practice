@@ -4,4 +4,4 @@
 -- | 302750   |
 -- +----------+
 
-
+SELECT listing_id FROM reviews;
